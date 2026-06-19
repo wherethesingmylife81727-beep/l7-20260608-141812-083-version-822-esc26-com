@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "html_files": 2014,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "baidu_script_pages": 2014,
+  "missing_html_links": 0,
+  "category_counts": {
+    "精选热播": 200,
+    "电影片库": 200,
+    "剧集追看": 200,
+    "亚洲剧场": 200,
+    "欧美环球": 200,
+    "悬疑犯罪": 200,
+    "动作冒险": 200,
+    "爱情生活": 200,
+    "喜剧动画": 200,
+    "纪录综艺": 200
+  },
+  "m3u8_source_count": 20
+}
